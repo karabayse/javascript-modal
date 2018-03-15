@@ -1,3 +1,3 @@
-##JavaScript Modal
+## JavaScript Modal
 
-Created with JavaScript, HTML, CSS 
+Created with JavaScript, HTML, CSS
